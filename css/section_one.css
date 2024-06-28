@@ -1,0 +1,21 @@
+.section_one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15rem;
+    margin: 3rem 2rem;
+}
+
+.paragraph {
+    color: white;
+}
+
+.name {
+    font-size: 1.5rem;
+
+}
+
+.profession {
+    font-size: 2rem;
+    
+}
